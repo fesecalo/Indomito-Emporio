@@ -1,0 +1,17 @@
+.verde{
+    background-color: #0BE73F ;
+}
+.titulo{
+    text-align: center;
+    color: #868E88 ;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.formulario{
+    border: #868E88;
+    border-style: solid;
+    padding: 3%;
+}
+#inicio a{
+    color: black;
+}
